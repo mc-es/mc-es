@@ -2,6 +2,7 @@
 <!-- https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif -->
 <!-- rocky.gif -->
 <!-- https://media.giphy.com/media/l0HlLZiHatn0BLJde/giphy.gif -->
+<!-- https://media.giphy.com/media/fv8KclrYGp5dK/giphy.gif -->
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Leckerli+One&size=30&duration=4000&pause=500&color=F7DD2E&center=true&width=435&lines=Think+Twice+Code+Once!" alt="Typing SVG" /></a>
@@ -9,7 +10,7 @@
 
 <!-- sherlock holmes.gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/fv8KclrYGp5dK/giphy.gif" align="center" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXh5N2lsYjh6cXdxMzluOTI1bnZwd3pkbWl5Y2h5cnloM210ZnZzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIcqppfavXjhqxhUVV/giphy.gif" align="center" width="600"/>
 </div>
 
 </br>
