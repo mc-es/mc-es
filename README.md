@@ -1,388 +1,404 @@
-<!-- hack the planet.gif-->
-<!-- https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif -->
-<!-- rocky.gif -->
-<!-- https://media.giphy.com/media/l0HlLZiHatn0BLJde/giphy.gif -->
-<!-- https://media.giphy.com/media/fv8KclrYGp5dK/giphy.gif -->
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Leckerli+One&size=30&duration=4000&pause=500&color=F7DD2E&center=true&width=435&lines=Think+Twice+Code+Once!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33CC33&center=true&vCenter=true&width=600&height=70&lines=Building+scalable+backends;Automating+infrastructure;Designing+clean+APIs;Always+learning+new+tech" alt="Typing SVG" />
 </div>
 
-<!-- sherlock holmes.gif -->
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXh5N2lsYjh6cXdxMzluOTI1bnZwd3pkbWl5Y2h5cnloM210ZnZzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIcqppfavXjhqxhUVV/giphy.gif" align="center" width="600"/>
 </div>
 
-</br>
+<br>
 <hr>
-
-<!-- about me code -->
 
 ```python
 class AboutMe:
+  def __init__(self):
+    self.name = "Mehmetcan ESER"
+    self.role = "Computer Engineer"
+    self.language_spoken = ["tr_TR", "en_US"]
 
-    def __init__(self):
-        self.name = "Mehmetcan ESER"
-        self.role = "Computer Engineer"
-        self.languageSpoken = ["tr_TR", "en_US"]
-
-    def sayHi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
+  def say_hi(self):
+    print("Thanks for dropping by, hope you find some of my work interesting.")
 
 me = AboutMe()
-me.sayHi()
+me.say_hi()
 ```
 
-</br>
+<br>
 <hr>
 
-<!-- quick stats about me -->
-<h2 align = "center"><em><strong> Quick stats </strong></em></h2>
-<table>
-  <tr>
-    <th><h4><em><strong> Github Stats </strong></em></h4></th>
-    <th><h4><em><strong> Top Languages </strong></em></h4></th>
-  </tr>
-  <tr>
-    <td width="500px" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mc-es&show_icons=true&count_private=true&hide_border=false&bg_color=30,FD841F,9C2C77&title_color=fff&text_color=000" alt="Sy's github stats" />
-    </td>
-    <td width="500px" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc-es&langs_count=9&hide_border=false&bg_color=70,181818,850E35&title_color=fff&text_color=fff" alt="Sy's top languages" />
-    </td>
-  </tr>
-</table>
-
-</br>
-<hr>
-
-<!-- my skill set -->
-<h2 align = "center"><em><strong> My skill set </strong></em></h2>
-<table>
-  <tr>
-    <th>
-      <h3><em><strong> Frontend </strong></em></h3>
-    </th>
-    <th>
-      <h3><em><strong> Backend </strong></em></h3>
-    </th>
-    <th>
-      <h3><em><strong> DevOps </strong></em></h3>
-    </th>
-  </tr>
-  <tr>
-    <td valign="top" width="400px">
-      <ul type="none">
-        <li>
-          <div align="center">
-            <a href="https://www.w3schools.com/html" target="_blank" title="html5">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://www.w3schools.com/css" target="_blank" title="css3">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://getbootstrap.com" target="_blank" title="bootstrap">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" />
-            </a>
-          </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-          <div align="center">
-            <a href="https://tailwindcss.com" target="_blank" title="tailwindcss">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://babeljs.io" target="_blank" title="babel">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://webpack.js.org" target="_blank" title="webpack">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="50" />
-            </a>
-          </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-          <div align="center">
-            <a href="https://reactjs.org" target="_blank" title="react">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://vitejs.dev" target="_blank" title="vite">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://nextjs.org" target="_blank" title="next.js">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" />
-            </a>
-          </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-          <div align="center">
-            <a href="https://reactnative.dev" target="_blank" title="react-native">
-              <img src="https://img.icons8.com/?&id=t4YbEbA834uH&format=png" width="57" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://docs.expo.dev" target="_blank" title="expo">
-              <img src="https://img.icons8.com/?id=IpN1evivrDWO&format=png&color=FFFFFF" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://redux.js.org" target="_blank" title="redux">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="50" />
-            </a>
-          </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-         <div align="center">
-            <a href="https://supabase.com/docs" target="_blank" title="supabase">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://www.npmjs.com" target="_blank" title="npm">
-              <img src="https://img.icons8.com/?id=24895&format=png" width="50" />
-            </a>  
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://yarnpkg.com" "target="_blank" title="yarn">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="50" />
-            </a>
-         </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-         <div align="center">
-            <a href="https://storybook.js.org" target="_blank" title="storybook">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" width="50" />
-            </a>  
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://eslint.org" target="_blank" title="eslint">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="50" />
-            </a>  
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://www.figma.com" target="_blank" title="figma">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" />
-            </a>
-         </div>
-        </li>
-      </ul>
-    </td>
-    <td valign="top" width="400px" >
-      <ul type="none">
-        <li>
-          <div align="center">
-            <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" title="c">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" title="c#">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://www.python.org" target="_blank" title="python">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
-            </a>
-          </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-          <div align="center">
-            <a href="https://www.java.com/en" target="_blank" title="java">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://spring.io" target="_blank" title="spring">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://hibernate.org" target="_blank" title="hibernate">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width="50" />
-            </a>
-          </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-          <div align="center">
-            <a href="https://www.javascript.com" target="_blank" title="javascript">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://www.typescriptlang.org" target="_blank" title="typescript">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://go.dev" target="_blank" title="golang">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50" />
-            </a>
-          </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-          <div align="center">
-            <a href="https://nodejs.org/en" target="_blank" title="nodejs">
-              <img src="https://img.icons8.com/?id=hsPbhkOH4FMe&format=png" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://expressjs.com" target="_blank" title="expressjs">
-              <img src="https://img.icons8.com/?id=2ZOaTclOqD4q&format=png" width="55" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://socket.io" target="_blank" title="socket.io">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="50" />
-            </a>
-          </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-          <div align="center">
-            <a href="https://pugjs.org/api/getting-started.html" target="_blank" title="pug">
-              <img src="https://img.icons8.com/?id=61393&format=png" width="45" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://ejs.co" target="_blank" title="ejs">
-              <img src="https://img.icons8.com/?id=Pxe6MGswB8pX&format=png" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://www.thymeleaf.org" target="_blank" title="thymeleaf">
-              <img src="https://img.icons8.com/?id=iWpVsSkAqPpZ&format=png" width="50" />
-            </a>
-          </div>
-        </li>
-        <hr style="height: 5px" />
-        <li>
-          <div align="center">
-            <a href="https://www.mongodb.com" target="_blank" title="mongoDB">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            <a href="https://mongoosejs.com" target="_blank" title="mongoose">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="55" />
-            </a>
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            &nbsp;
-            <a href="https://www.mysql.com" target="_blank" title="mysql">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" />
-            </a>
-          </div>
-        </li>
-      </ul>
-    </td>
-    <td valign="top" width="250px">
-      <ul type="none">
-        <li>
-          <div align="center">
-            <a href="https://git-scm.com" target="_blank" title="git">
-              <img src="https://img.icons8.com/?id=20906&format=png" width="50" />
-            </a>
-            &nbsp;
-            &nbsp;
-            <a href="https://docs.github.com/en" target="_blank" title="github">
-              <img src="https://img.icons8.com/?id=12599&format=png&color=FFFFFF" width="50" />
-            </a>
-          </div>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>  
-<hr>
-
-<!-- connect with me --->
-<h2 align = "center"><em><strong> Connect with me </strong></em></h2>
+<!-- stats -->
 <div align="center">
-  <a href="https://ceser446@gmail.com" target="_blank">
-    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=rgb(52,168,83)&logoColor=white alt=gmail style="width:125px; height:30px;" />
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=72516854" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=72516854&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @mc-es" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=72516854&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
+</div>
+
+<br>
+<hr>
+
+<!-- skill set -->
+<table>
+  <tbody>
+    <tr>
+      <td width="150" align="center">
+        <b>💻 Languages</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <b>🎨 Frontend</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <b>⚙️ Backend</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
+        <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <b>💾 Database</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <b>🛠️ DevOps</b>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/SonarQube%20Cloud-126ED3?style=for-the-badge&logo=sonarqubecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/GolangCI_Lint-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+<hr>
+
+<!-- contact --->
+<div align="center">
+  <a href="mailto:mehmetcan.eser.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   &nbsp;
-  <a href="https://github.com/mc-es" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&color=rgb(24,23,23)&logoColor=white alt=github style="width:125px; height:30px" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/mc-es" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&color=rgb(216,53,74)&logoColor=white alt=instagram style="width:125px; height:30px" />
+  <a href="https://instagram.com/its.mces" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&color=rgb(216,53,74)&logoColor=white" alt="instagram" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/mc-es" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&color=rgb(10,102,194)&logoColor=white alt=linkedin style="width:125px; height:30px" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="linkedin" />
   </a>
   &nbsp;
-  <a href="https://medium.com/@ceser446" target="_blank">
-    <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&color=rgb(0,0,0)&logoColor=white alt=medium style="width:125px; height:30px" />
+  <a href="https://medium.com/@mc-es" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
   </a>
-  &nbsp;
-  <a href="https://www.youtube.com/channel/UCwkBsL4p43ktNKS0tP-fqiw" target="_blank">
-    <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&color=rgb(255,0,0)&logoColor=white alt=youtube style="width:125px; height:30px" />
-  </a>  
 </div>
 
-<br/>
+<br>
 <hr>
 
-<!-- music -->
-<h2 align = "center"><em><strong> Spotify </strong></em></h2>
+<!-- spotify -->
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31v4s6i6rxks276x5y3odfmltlbi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31v4s6i6rxks276x5y3odfmltlbi&redirect=true)
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v4s6i6rxks276x5y3odfmltlbi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v4s6i6rxks276x5y3odfmltlbi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+  </a>
 </div>
 
 <hr>
 
-<!-- profil visitor -->
+<!-- visitor -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mc-es&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=mc-es&style=flat-square" align="center" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=33CC33&center=true&vCenter=true&width=600&height=70&lines=Building+scalable+backends;Automating+infrastructure;Designing+clean+APIs;Always+learning+new+tech" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXh5N2lsYjh6cXdxMzluOTI1bnZwd3pkbWl5Y2h5cnloM210ZnZzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIcqppfavXjhqxhUVV/giphy.gif" align="center" width="600"/>
+</div>
+
+<br>
+<hr>
+
+```python
+class AboutMe:
+  def __init__(self):
+    self.name = "Mehmetcan ESER"
+    self.role = "Computer Engineer"
+    self.language_spoken = ["tr_TR", "en_US"]
+
+  def say_hi(self):
+    print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = AboutMe()
+me.say_hi()
+```
+
+<br>
+<hr>
+
+<!-- stats -->
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=72516854" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=72516854&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @mc-es" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=72516854&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
+</div>
+
+<br>
+<hr>
+
+<!-- skill set -->
+<table>
+  <tbody>
+    <tr>
+      <td width="150" align="center">
+        <b>💻 Languages</b>
+      </td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        </a>
+        <a href="https://go.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        </a>
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        </a>
+        <a href="https://www.java.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        </a>
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+        </a>
+        <a href="https://isocpp.org/" target="_blank">
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <b>🎨 Frontend</b>
+      </td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        </a>
+        <a href="https://react.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        </a>
+        <a href="https://nextjs.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        </a>
+        <a href="https://reactnative.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        </a>
+        <a href="https://expo.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+        </a>
+        <a href="https://redux.js.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+        </a>
+        <a href="https://github.com/pmndrs/zustand" target="_blank">
+          <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        </a>
+        <a href="https://getbootstrap.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+        </a>
+        <a href="https://storybook.js.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+        </a>
+        <a href="https://vitejs.dev/" target="_blank">
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <b>⚙️ Backend</b>
+      </td>
+      <td>
+        <a href="https://nodejs.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        </a>
+        <a href="https://expressjs.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        </a>
+        <a href="https://socket.io/" target="_blank">
+          <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+        </a>
+        <a href="https://spring.io/" target="_blank">
+          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+        </a>
+        <a href="https://hibernate.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+        </a>
+        <a href="https://pugjs.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" />
+        </a>
+        <a href="https://ejs.co/" target="_blank">
+          <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+        </a>
+        <a href="https://www.thymeleaf.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <b>💾 Database</b>
+      </td>
+      <td>
+        <a href="https://www.mongodb.com/" target="_blank">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        </a>
+        <a href="https://mongoosejs.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+        </a>
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        </a>
+        <a href="https://firebase.google.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        </a>
+        <a href="https://supabase.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <b>🛠️ DevOps & Tools</b>
+      </td>
+      <td>
+        <a href="https://prometheus.io/" target="_blank">
+          <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+        </a>
+        <a href="https://grafana.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+        </a>
+        <a href="https://sonarcloud.io/" target="_blank">
+          <img src="https://img.shields.io/badge/SonarQube%20Cloud-126ED3?style=for-the-badge&logo=sonarqubecloud&logoColor=white" />
+        </a>
+        <a href="https://golangci-lint.run/" target="_blank">
+          <img src="https://img.shields.io/badge/GolangCI_Lint-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        </a>
+        <a href="https://github.com/googleapis/release-please" target="_blank">
+          <img src="https://img.shields.io/badge/Release_Please-2C2C2C?style=for-the-badge&logo=githubactions&logoColor=white" />
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        </a>
+        <a href="https://www.docker.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        </a>
+        <a href="https://www.linux.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        </a>
+        <a href="https://webpack.js.org/" target="_blank">
+          <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+        </a>
+        <a href="https://babeljs.io/" target="_blank">
+          <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
+        </a>
+        <a href="https://eslint.org/" target="_blank">
+          <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+<hr>
+
+<!-- contact --->
+<div align="center">
+  <a href="mailto:mehmetcan.eser.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/its.mces" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&color=rgb(216,53,74)&logoColor=white" alt="instagram" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mc-es" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@mc-es" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+  </a>
+</div>
+
+<br>
+<hr>
+
+<!-- spotify -->
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v4s6i6rxks276x5y3odfmltlbi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v4s6i6rxks276x5y3odfmltlbi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+  </a>
+</div>
+
+<hr>
+
+<!-- visitor -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mc-es&style=flat-square" align="center" />
 </div>
